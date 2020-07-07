@@ -1,4 +1,4 @@
-def display_board(board = ["O", " ", " ", " ", "X", " ", " ", "", " "])
+def display_board(board = [" ", " ", " ", " ", " ", " ", " ", "", " "])
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
